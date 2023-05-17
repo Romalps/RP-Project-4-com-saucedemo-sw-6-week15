@@ -1,0 +1,40 @@
+2023-05-14 00:05:506 INFO  LoginPage :41 - Enter Username : standard_user
+2023-05-14 00:05:686 INFO  LoginPage :47 - Enter Password : secret_sauce
+2023-05-14 00:05:934 INFO  LoginPage :52 - Click on Login button [[ChromeDriver: chrome on WINDOWS (b8a48eb46622be207eee52736aa352ca)] -> id: login-button]
+2023-05-14 00:05:70 INFO  LoginPage :41 - Enter Username : standard_user
+2023-05-14 00:05:200 INFO  LoginPage :47 - Enter Password : secret_sauce
+2023-05-14 00:05:396 INFO  LoginPage :52 - Click on Login button [[ChromeDriver: chrome on WINDOWS (5a0b0bec65d80df95d8cddb7cfa318eb)] -> id: login-button]
+2023-05-14 01:05:915 INFO  LoginPage :41 - Enter Username : standard_user
+2023-05-14 01:05:49 INFO  LoginPage :47 - Enter Password : secret_sauce
+2023-05-14 01:05:258 INFO  LoginPage :52 - Click on Login button [[ChromeDriver: chrome on WINDOWS (9ef51473f16b460abcbfc8144f8d75df)] -> id: login-button]
+2023-05-14 01:05:333 INFO  LoginPage :41 - Enter Username : standard_user
+2023-05-14 01:05:580 INFO  LoginPage :47 - Enter Password : secret_sauce
+2023-05-14 01:05:87 INFO  LoginPage :52 - Click on Login button [[ChromeDriver: chrome on WINDOWS (5c0ef96b700aa0d6b5cdc786b713510b)] -> id: login-button]
+2023-05-14 02:05:620 INFO  LoginPage :41 - Enter Username : standard_user
+2023-05-14 02:05:829 INFO  LoginPage :47 - Enter Password : secret_sauce
+2023-05-14 02:05:178 INFO  LoginPage :52 - Click on Login button [[ChromeDriver: chrome on WINDOWS (ab72aa0a78d6487112b6cf1e9adc8133)] -> id: login-button]
+2023-05-14 02:05:671 INFO  LoginPage :41 - Enter Username : standard_user
+2023-05-14 02:05:912 INFO  LoginPage :47 - Enter Password : secret_sauce
+2023-05-14 02:05:135 INFO  LoginPage :52 - Click on Login button [[ChromeDriver: chrome on WINDOWS (38e9dc1ff5ca382daf4ccdb596cb4bcd)] -> id: login-button]
+2023-05-14 02:05:673 INFO  LoginPage :41 - Enter Username : standard_user
+2023-05-14 02:05:897 INFO  LoginPage :47 - Enter Password : secret_sauce
+2023-05-14 02:05:108 INFO  LoginPage :52 - Click on Login button [[ChromeDriver: chrome on WINDOWS (e24838cb3735164fdab8b9d4e7aadab2)] -> id: login-button]
+2023-05-14 02:05:218 INFO  ProductPage :44 - Get product per page : [[[ChromeDriver: chrome on WINDOWS (e24838cb3735164fdab8b9d4e7aadab2)] -> xpath: //div[@class='inventory_item_label']], [[ChromeDriver: chrome on WINDOWS (e24838cb3735164fdab8b9d4e7aadab2)] -> xpath: //div[@class='inventory_item_label']], [[ChromeDriver: chrome on WINDOWS (e24838cb3735164fdab8b9d4e7aadab2)] -> xpath: //div[@class='inventory_item_label']], [[ChromeDriver: chrome on WINDOWS (e24838cb3735164fdab8b9d4e7aadab2)] -> xpath: //div[@class='inventory_item_label']], [[ChromeDriver: chrome on WINDOWS (e24838cb3735164fdab8b9d4e7aadab2)] -> xpath: //div[@class='inventory_item_label']], [[ChromeDriver: chrome on WINDOWS (e24838cb3735164fdab8b9d4e7aadab2)] -> xpath: //div[@class='inventory_item_label']]]
+2023-05-14 02:05:225 INFO  ProductPage :50 - Verify six product are displayed: 6
+2023-05-14 02:05:317 INFO  LoginPage :41 - Enter Username : standard_user
+2023-05-14 02:05:710 INFO  LoginPage :47 - Enter Password : secret_sauce
+2023-05-14 02:05:958 INFO  LoginPage :52 - Click on Login button [[ChromeDriver: chrome on WINDOWS (1cfabdd211ca5edb6fc92adeda1a7022)] -> id: login-button]
+2023-05-14 02:05:32 INFO  ProductPage :44 - Get product per page : [[[ChromeDriver: chrome on WINDOWS (1cfabdd211ca5edb6fc92adeda1a7022)] -> xpath: //div[@class='inventory_item_label']], [[ChromeDriver: chrome on WINDOWS (1cfabdd211ca5edb6fc92adeda1a7022)] -> xpath: //div[@class='inventory_item_label']], [[ChromeDriver: chrome on WINDOWS (1cfabdd211ca5edb6fc92adeda1a7022)] -> xpath: //div[@class='inventory_item_label']], [[ChromeDriver: chrome on WINDOWS (1cfabdd211ca5edb6fc92adeda1a7022)] -> xpath: //div[@class='inventory_item_label']], [[ChromeDriver: chrome on WINDOWS (1cfabdd211ca5edb6fc92adeda1a7022)] -> xpath: //div[@class='inventory_item_label']], [[ChromeDriver: chrome on WINDOWS (1cfabdd211ca5edb6fc92adeda1a7022)] -> xpath: //div[@class='inventory_item_label']]]
+2023-05-14 02:05:39 INFO  ProductPage :50 - Verify six product are displayed: 6
+2023-05-14 02:05:471 INFO  LoginPage :41 - Enter Username : standard_user
+2023-05-14 02:05:660 INFO  LoginPage :47 - Enter Password : secret_sauce
+2023-05-14 02:05:911 INFO  LoginPage :52 - Click on Login button [[ChromeDriver: chrome on WINDOWS (b1fa9bd31e8ac7d141be2b70c8e776c6)] -> id: login-button]
+2023-05-14 02:05:973 INFO  ProductPage :33 - Get Product text : [[ChromeDriver: chrome on WINDOWS (b1fa9bd31e8ac7d141be2b70c8e776c6)] -> xpath: //span[@class='title']]
+2023-05-14 15:05:357 INFO  LoginPage :35 - Enter Username : standard_user
+2023-05-14 15:05:448 INFO  LoginPage :41 - Enter Password : secret_sauce
+2023-05-14 15:05:582 INFO  LoginPage :46 - Click on Login button [[ChromeDriver: chrome on WINDOWS (7e5f1b3d08050a6bf8496854c4da3844)] -> id: login-button]
+2023-05-14 15:05:619 INFO  ProductPage :33 - Get Product text : [[ChromeDriver: chrome on WINDOWS (7e5f1b3d08050a6bf8496854c4da3844)] -> xpath: //span[@class='title']]
+2023-05-14 15:05:508 INFO  LoginPage :35 - Enter Username : standard_user
+2023-05-14 15:05:594 INFO  LoginPage :41 - Enter Password : secret_sauce
+2023-05-14 15:05:722 INFO  LoginPage :46 - Click on Login button [[ChromeDriver: chrome on WINDOWS (4da8c08613183fd2b996534215fb1bae)] -> id: login-button]
+2023-05-14 15:05:752 INFO  ProductPage :33 - Get Product text : [[ChromeDriver: chrome on WINDOWS (4da8c08613183fd2b996534215fb1bae)] -> xpath: //span[@class='title']]
